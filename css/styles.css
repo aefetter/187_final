@@ -86,7 +86,7 @@ h6 {
 .cell {
     flex: 1;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 .quiz-container {
